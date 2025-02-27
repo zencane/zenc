@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/maintenance/static/css/main.4074ff52.css",
+    "main.js": "/maintenance/static/js/main.09deebab.js",
+    "static/js/845.e61d76ce.chunk.js": "/maintenance/static/js/845.e61d76ce.chunk.js",
+    "static/media/PerfectDOSVGA437Win.woff": "/maintenance/static/media/PerfectDOSVGA437Win.86368cc9dec15d71c965.woff",
+    "static/media/PerfectDOSVGA437Win.woff2": "/maintenance/static/media/PerfectDOSVGA437Win.7dc718899b215fa16aa7.woff2",
+    "static/media/ms_sans_serif.woff": "/maintenance/static/media/ms_sans_serif.aac84aa6de42b83d1a62.woff",
+    "static/media/ms_sans_serif_bold.woff": "/maintenance/static/media/ms_sans_serif_bold.9fbe71248995f1c639d4.woff",
+    "static/media/ms_sans_serif.woff2": "/maintenance/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/maintenance/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
+    "index.html": "/maintenance/index.html",
+    "main.4074ff52.css.map": "/maintenance/static/css/main.4074ff52.css.map",
+    "main.09deebab.js.map": "/maintenance/static/js/main.09deebab.js.map",
+    "845.e61d76ce.chunk.js.map": "/maintenance/static/js/845.e61d76ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4074ff52.css",
+    "static/js/main.09deebab.js"
+  ]
+}
