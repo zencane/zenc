@@ -6,8 +6,8 @@ import "xp.css/dist/XP.css"; // Import the XP.css file
 
 const word = "maintenance";
 const uniqueLetters = word.split("");
-const shortGifPath = `${process.env.PUBLIC_URL}/drainstoryshort.gif`;
-const longGifPath = `${process.env.PUBLIC_URL}/drainstorylong.gif`;
+const shortGifPath = '/drainstoryshort.gif';
+const longGifPath = '/drainstorylong.gif';
 const letterCount = uniqueLetters.length;
 
 function shuffleArray(array) {
