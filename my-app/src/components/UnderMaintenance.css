@@ -1,0 +1,62 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0 20px;
+}
+
+.text-2xl {
+  font-size: 1.25rem; /* Reduce the header size */
+}
+
+.slider-container {
+  display: flex;
+  align-items: center;
+  font-size: 12px; /* Reduce font size */
+  padding-right: 20px; /* Add padding to the right */
+}
+
+.slider-container label {
+  margin: 0 5px; /* Reduce margin */
+}
+
+.slider-container input[type="range"] {
+  width: 80px; /* Reduce width */
+  margin: 0 5px; /* Reduce margin */
+}
+
+.letter-container {
+  flex: 1; /* Stretch to fill available space */
+  height: 64px; /* Increase height */
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* Align items to the start */
+  padding-left: 10px; /* Add padding to the left */
+  color: black; /* Set text color to black */
+  font-size: 28px; /* Reduce font size slightly */
+  font-weight: bold;
+  text-shadow: -2px -2px 0 #fff, 2px -2px 0 #fff, -2px 2px 0 #fff, 2px 2px 0 #fff; /* Make the white outline thicker */
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.8); /* Add a background color for better visibility */
+  margin: 5px; /* Add some margin between letters */
+}
+
+.success-placeholder {
+  width: 50%; /* Half the size of the page */
+  height: 100px; /* Adjust height as needed */
+  background-color: rgba(255, 255, 255, 0.8); /* Light background */
+  margin-top: 20px; /* Space above the placeholder */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black; /* Solid black border */
+  margin: 20px auto; /* Center the box */
+}
+
+.success-text {
+  font-size: 3rem; /* Large font size */
+  color: black; /* Black text color */
+  text-align: center;
+  width: 100%; /* Fill the entirety of the box */
+}
